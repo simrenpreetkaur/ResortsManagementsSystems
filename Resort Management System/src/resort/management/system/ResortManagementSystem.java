@@ -19,19 +19,19 @@ public class ResortManagementSystem extends JFrame implements ActionListener{
         label1.setBounds(0,0,1500,600);
         add(label1);
                       
-        JLabel label2 = new JLabel("Resorts Management System");
+        JLabel label2 = new JLabel("Resort Management System");
         label2.setBounds(320,250,1500,90);
         label2.setForeground(Color.WHITE);
         label2.setFont(new Font("serif", Font.PLAIN,70));
         label1.add(label2);
         
-        JLabel label3 = new JLabel("Welcome to Our");
+        JLabel label3 = new JLabel("Welcome TO OUR ");
         label3.setBounds(470,180,1000,70);
         label3.setForeground(Color.WHITE);
         label3.setFont(new Font("serif", Font.PLAIN,70));
         label1.add(label3);
         
-        JButton button1 = new JButton("Next");
+        JButton button1 = new JButton("NEXT");
         button1.setBackground(Color.LIGHT_GRAY);
         button1.setForeground(Color.BLACK);
         button1.setBounds(1250, 450, 150, 50);
