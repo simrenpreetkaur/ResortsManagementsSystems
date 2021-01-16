@@ -45,7 +45,7 @@ public class mainPage extends JFrame implements ActionListener {
         setBounds(0,0,1950,1000);
         setVisible(true);
         
-        button1 = new JButton("EXIT");
+        button1 = new JButton("Exit");
         button1.setBackground(Color.BLACK);
         button1.setForeground(Color.WHITE);
         button1.setBounds(1700,870,130,50);
