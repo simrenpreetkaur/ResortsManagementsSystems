@@ -96,7 +96,7 @@ public class addEmployee extends JFrame implements ActionListener {
         text6.setBounds(200,380,135,30);
         add(text6);
         
-        JButton b1 = new JButton("Submit");
+        JButton b1 = new JButton("SUBMIT");
         b1.setBackground(Color.BLACK);
         b1.setForeground(Color.WHITE);
         b1.setBounds(185,430,150,30);
