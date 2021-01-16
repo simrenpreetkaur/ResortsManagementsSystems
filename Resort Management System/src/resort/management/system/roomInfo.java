@@ -22,7 +22,7 @@ public class roomInfo extends JFrame implements ActionListener{
         table1.setBounds(0,40,500,400);
         add(table1);
         
-        JLabel label1 = new JLabel("Room Number");
+        JLabel label1 = new JLabel("Room No");
         label1.setBounds(10,10,100,20);
         add(label1);
         
